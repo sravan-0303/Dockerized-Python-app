@@ -1,7 +1,5 @@
-============================
-
 Dockerized Python Application
-============================
+
 
 This repository contains a simple Python application containerized using Docker.
 
